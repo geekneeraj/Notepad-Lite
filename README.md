@@ -10,7 +10,7 @@ Run the following command:
 
 ```
 
-# Steps for Run:
+## Steps for Run:
 Run the following command:
 
 ```
